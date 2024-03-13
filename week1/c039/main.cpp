@@ -23,7 +23,7 @@ int main(void) {
             }
             c = max(t, c);
         }
-        cout<<i<<" "<<j<<" "<<c<<endl;
+        cout<<i<<" "<<j<<" "<<c+1<<endl;
     }
     return 0;   
 }
